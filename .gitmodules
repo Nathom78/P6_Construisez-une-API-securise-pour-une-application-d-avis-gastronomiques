@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Nathom78/backend---P6.git
